@@ -136,9 +136,13 @@ Shopping,1500,2026-04-03,Other
 ---
 
 ## 📸 Screenshots
+Login Page
 <img width="1638" height="1110" alt="image" src="https://github.com/user-attachments/assets/535b055d-fcf0-43ae-a315-4d7b742e72dd" />
+Add Expenses
 <img width="529" height="778" alt="image" src="https://github.com/user-attachments/assets/5a0692e8-a964-4ac8-8879-c26fe374f99c" />
-<img width="1106" height="967" alt="image" src="https://github.com/user-attachments/assets/9ee1b851-06a1-4f8a-afb7-fb7311892403" />
+All Expenses
+<img width="700" height="967" alt="image" src="https://github.com/user-attachments/assets/9ee1b851-06a1-4f8a-afb7-fb7311892403" />
+Overall DashBoard
 <img width="1079" height="911" alt="image" src="https://github.com/user-attachments/assets/6a3dfb12-d82a-417a-911d-2984fae0df25" />
 
 
