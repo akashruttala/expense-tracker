@@ -1,0 +1,53 @@
+# =========================
+# Python (Flask Backend)
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+env/
+
+# SQLite (if used later)
+*.db
+
+# Logs
+*.log
+
+# Uploads / temp files
+uploads/
+
+# =========================
+# Environment variables
+# =========================
+.env
+
+# =========================
+# React (Frontend)
+# =========================
+frontend/node_modules/
+node_modules/
+
+# Build files
+frontend/build/
+dist/
+
+# =========================
+# VS Code / Editor files
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Optional (datasets)
+# =========================
+# Uncomment if large files
+# *.csv
+# *.xlsx

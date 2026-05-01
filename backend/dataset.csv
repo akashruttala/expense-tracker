@@ -1,0 +1,19 @@
+title,amount,date,type
+Food,200,2026-04-01,daily
+Food,200,2026-04-01,daily
+Taxi,0,2026-04-02,transport
+Internet,-999,2026-04-03,bills
+Groceries,1200,2026-04-04,monthly
+Movie,abc,2026-04-05,entertainment
+Gym,800,04-06-2026,health
+Coffee,150,,daily
+Shopping,2500,2026-04-07,
+Electricity Bill,1800,2026/04/08,bills
+Lunch,300,2026-04-09,daily
+Dinner,450,2026-04-10,daily
+Fuel,900,2026-04-11,transport
+Books,1200,invalid-date,education
+NULL,700,2026-04-12,monthly
+,500,2026-04-13,other
+FOOD,200,2026-04-01,DAILY
+food,200,2026-04-01,daily
